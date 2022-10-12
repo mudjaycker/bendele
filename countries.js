@@ -244,4 +244,4 @@ const countries = [
     {name: 'Zimbabwe', code: 'ZW'} 
   ]
 
-  export default countries
+module.exports = countries

@@ -251,5 +251,4 @@ const pays = [
   { name: "Zambie", code: "ZM" },
   { name: "Zimbabwe", code: "ZW" },
 ];
-
-export default pays
+module.exports = pays
