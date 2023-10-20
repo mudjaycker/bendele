@@ -1,4 +1,4 @@
-# countries-pays-js
+# Bendele
 
 <p>An example of use case !</p>
 
